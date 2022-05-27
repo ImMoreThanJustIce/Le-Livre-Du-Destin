@@ -53,9 +53,6 @@ body{
 }
 
 header{
-    background-image: url(img/book.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
     font-size: 2vw;
     display: flex;
     justify-content: center;
@@ -82,7 +79,7 @@ a{
 }
 
 #myspace{
-    background-color: #3f4d98a8;
+    background-color: #3F4D98a8;
     color: #fff3dd;
     padding: 0% 3% 0% 3%;
     height: 100%;
@@ -137,7 +134,7 @@ h2 i{
 }
 
 #intro{
-    font-size: 2vw;
+    font-size: 1.5vw;
     margin-bottom: 4vw;
 }
 
@@ -166,7 +163,7 @@ h2 i{
 
 #fil{
     border-radius: 20px;
-    width: 25vw;
+    width: 35vw;
 }
 
 footer{
